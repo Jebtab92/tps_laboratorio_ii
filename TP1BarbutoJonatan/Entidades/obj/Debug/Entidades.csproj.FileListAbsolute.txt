@@ -1,0 +1,6 @@
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\bin\Debug\Entidades.dll
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\obj\Debug\Entidades.dll
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\Entidades\obj\Debug\Entidades.pdb

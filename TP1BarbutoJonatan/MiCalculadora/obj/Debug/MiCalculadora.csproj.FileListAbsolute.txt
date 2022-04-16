@@ -1,0 +1,13 @@
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\jonat\source\repos\TP1BarbutoJonatan\MiCalculadora\obj\Debug\MiCalculadora.pdb

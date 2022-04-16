@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{44B935CB-492F-4586-AC18-976BDD9E2EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{3EE413C7-DA7E-4D0C-83B6-4D13E3B9E391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B935CB-492F-4586-AC18-976BDD9E2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B935CB-492F-4586-AC18-976BDD9E2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B935CB-492F-4586-AC18-976BDD9E2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B935CB-492F-4586-AC18-976BDD9E2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE413C7-DA7E-4D0C-83B6-4D13E3B9E391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE413C7-DA7E-4D0C-83B6-4D13E3B9E391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE413C7-DA7E-4D0C-83B6-4D13E3B9E391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE413C7-DA7E-4D0C-83B6-4D13E3B9E391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6389E48-D82B-4FCD-8346-4FE4BE52844C}
+	EndGlobalSection
+EndGlobal
